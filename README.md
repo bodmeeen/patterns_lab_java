@@ -1,1 +1,0 @@
-# patterns_lab
